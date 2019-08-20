@@ -1,12 +1,12 @@
-# [steemwallet.app](https://steemwallet.app)
+# [goloswallet.app](https://goloswallet.app)
 ##### [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[![steemwallet.app](https://steemwallet.app/images/social_fb.jpg)](https://steemwallet.app)
+[![goloswallet.app](https://steemwallet.app/images/social_fb.jpg)](https://steemwallet.app)
 
-##### steemwallet is a fast, secure and open source wallet for the Steem blockchain, available for iOS and Android.
+##### goloswallet is a fast, secure and open source wallet for the Golos blockchain, soon available for iOS Android.
 
 # Key features
-  - Monitor any / multiple account's balances from the Steem blockchain
+  - Monitor any / multiple account's balances from the Golos blockchain
   - Create, sign and broadcast transfer transactions (send steem & sbd) (optional)
   - AES 256 encrypted storage for keys should you want to sign transfer operations (send steem & sbd)
   - QR code reader for easy importing of keys and sending to others
@@ -54,4 +54,5 @@ Translations are a community effort and thanks to opensource support from [Crowd
 | RO       	| [rasozauru](https://steemit.com/@rasozauru)		  |
 | RU       	| [dunsky](https://steemit.com/@dunsky)		        |
 
-Cheers, [@roelandp](https://steemit.com/@roelandp)
+Thanks Roeland! [@ackza](https://steemit.com/@ackza)
+Forked from Steemwallet by [@roelandp](https://steemit.com/@roelandp)
