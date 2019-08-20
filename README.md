@@ -1,6 +1,6 @@
 # [goloswallet.app](https://goloswallet.app)
 ##### [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
+https://images.golos.io/DQmP7BCzYrEK3ioBWQ2nCgausDEtpaVf2Mzoo4kfiQCjaWU/image.png
 [![goloswallet.app](https://images.golos.io/DQmP7BCzYrEK3ioBWQ2nCgausDEtpaVf2Mzoo4kfiQCjaWU/image.png)](https://goloswallet.app)
 
 ##### goloswallet is a fast, secure and open source wallet for the Golos blockchain, soon available for iOS Android.
